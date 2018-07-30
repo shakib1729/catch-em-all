@@ -9,5 +9,7 @@ uses localStorage to save progress
 
 Hint: Type 'iamacheater' in game
 
+![cea](https://user-images.githubusercontent.com/39847281/43388507-f4d61d38-9406-11e8-9e87-b14f4100a14a.JPG)
+
 
 Built as a part of JavaScript30 course by Wes Bos
