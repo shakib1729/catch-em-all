@@ -7,3 +7,5 @@ Catch 'Em All !!!
 
 Hint: Type 'iamacheater' in game
 
+
+Built as a part of JavaScript30 course by Wes Bos
