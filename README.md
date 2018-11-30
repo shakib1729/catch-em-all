@@ -1,7 +1,7 @@
 # catch-em-all
 rock n roll!!
 Catch 'Em All !!!
-
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://catchemall.netlify.com)
 uses localStorage to save progress
 
 
